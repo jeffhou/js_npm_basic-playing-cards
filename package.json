@@ -1,0 +1,30 @@
+{
+  "name": "@jeffhou/tractor-library",
+  "version": "1.0.0",
+  "description": "Basic logic for playing Tractor, the card game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "jeffhou",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffhou/js_npm_tractor-library.git"
+  },
+  "keywords": [
+    "playing",
+    "cards",
+    "card",
+    "deck",
+    "game",
+    "play"
+  ],
+  "bugs": {
+    "url": "https://github.com/jeffhou/js_npm_tractor-library/issues"
+  },
+  "homepage": "https://github.com/jeffhou/js_npm_tractor-library#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
