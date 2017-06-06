@@ -1,6 +1,6 @@
 {
   "name": "@jeffhou/tractor-library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Basic logic for playing Tractor, the card game.",
   "main": "index.js",
   "scripts": {
